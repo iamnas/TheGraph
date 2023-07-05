@@ -1,0 +1,8 @@
+{
+  "mumbai": {
+    "MockUSDT": {
+      "address": "0xFCe7187B24FCDc9feFfE428Ec9977240C6F7006D",
+      "startBlock": 36216128
+    }
+  }
+}
